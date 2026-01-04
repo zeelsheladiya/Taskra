@@ -1,0 +1,30 @@
+# Odin build output
+*.exe
+*.out
+*.bin
+*.dll
+*.so
+*.dylib
+
+# Odin cache (if used)
+odin-cache/
+build/
+bin/
+
+# Debug / profiling
+*.pdb
+*.prof
+*.trace
+
+# Editor / OS junk
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+tasks.json
