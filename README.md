@@ -6,7 +6,7 @@ Taskra is a lightweight, efficient To-Do application built from scratch using th
 
 I built this project to learn how to structure a UI application in Odin without relying on heavy external UI frameworks. It demonstrates how to implement a custom immediate-mode style UI, handle input, render variable-height text, and manage application state manually.
 
-Special thanks to `cococry` UI is havely inspired by their **[todo](https://github.com/cococry/todo)** repo
+Special thanks to `cococry`, UI is havely inspired by their **[todo](https://github.com/cococry/todo)** repo
 
 ## Showcase
 
