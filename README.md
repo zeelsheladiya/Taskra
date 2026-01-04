@@ -10,7 +10,7 @@ Special thanks to `cococry` UI is havely inspired by their **[todo](https://gith
 
 ## Showcase
 
-<video src="./demo/demo.mp4" controls></video>
+https://github.com/user-attachments/assets/e18b2405-142a-44ac-bcd2-07dd1e61392b
 
 ![Taskra](./demo/2.png)
 
